@@ -60,7 +60,7 @@ export default function Download() {
             className="inline-block"
           >
             <Link
-              href="https://apps.apple.com/app/veripip"
+              href="https://apps.apple.com/us/app/veripip-trade-journal-goals/id6756242442"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 px-8 py-4 rounded-2xl bg-white text-black font-semibold text-lg hover:bg-gray-100 transition-colors"
